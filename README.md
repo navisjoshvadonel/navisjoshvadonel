@@ -60,6 +60,9 @@ I am a **Data Engineer & AI-Native Systems Developer** passionate about building
 
 ### 🌟 Featured Projects
 
+#### 🚀 [Main Portfolio](https://github.com/navisjoshvadonel/Portfolio)
+> My primary portfolio repository showcasing a collection of my best work, technical skills, and professional journey.
+
 #### 🧠 [Agent-Snow](https://github.com/navisjoshvadonel/Agent-Snow)
 > A local-first intelligence layer designed for high-performance agentic workflows. Focuses on privacy-preserving AI interactions and seamless tool integration.
 
