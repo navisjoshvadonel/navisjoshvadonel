@@ -1,7 +1,7 @@
 # <p align="center">Navis Joshva Donel J</p>
 
 <p align="center">
-  <img src="profile-banner.png" alt="Navis Joshva Donel J - Professional Banner" width="100%">
+  <img src="profile-banner.png" alt="Navis Joshva Donel J - Professional Banner" width="700">
 </p>
 
 <p align="center">
