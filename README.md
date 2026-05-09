@@ -8,7 +8,7 @@
   <a href="https://github.com/navisjoshvadonel">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=github" alt="Status">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:navis.donel_bai28@mepcoeng.ac.in">
     <img src="https://img.shields.io/badge/Contact-Email%20Me-blue?style=for-the-badge&logo=gmail" alt="Email">
   </a>
   <a href="https://linkedin.com/in/your-profile">
@@ -74,6 +74,10 @@ I am a **Data Engineer & AI-Native Systems Developer** passionate about building
 ### 📈 GitHub Insights
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=navisjoshvadonel&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navisjoshvadonel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navisjoshvadonel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -82,13 +86,17 @@ I am a **Data Engineer & AI-Native Systems Developer** passionate about building
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navisjoshvadonel&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=navisjoshvadonel&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
 ---
 
 ### 🤝 Let's Connect!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Navis Joshva Donel J](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [Coming Soon]
+- 📧 Email: [navis.donel_bai28@mepcoeng.ac.in](mailto:navis.donel_bai28@mepcoeng.ac.in)
+- 💼 LinkedIn: [Navis Joshva Donel J](https://linkedin.com/in/navisjoshvadonel)
+- 🌐 Portfolio: [Data Exploration & Visuals](https://github.com/navisjoshvadonel/DATA-EXPLORATION-AND-VISUALS)
 
 <p align="center">
   <i>"Building the future, one agent at a time."</i>
