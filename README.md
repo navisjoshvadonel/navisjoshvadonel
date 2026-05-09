@@ -96,7 +96,7 @@ I am a **Data Engineer & AI-Native Systems Developer** passionate about building
 
 - 📧 Email: [navis.donel_bai28@mepcoeng.ac.in](mailto:navis.donel_bai28@mepcoeng.ac.in)
 - 💼 LinkedIn: [Navis Joshva Donel J](https://linkedin.com/in/navisjoshvadonel)
-- 🌐 Portfolio: [Data Exploration & Visuals](https://github.com/navisjoshvadonel/DATA-EXPLORATION-AND-VISUALS)
+- 🌐 Portfolio: [My Portfolio](https://github.com/navisjoshvadonel/Portfolio)
 
 <p align="center">
   <i>"Building the future, one agent at a time."</i>
