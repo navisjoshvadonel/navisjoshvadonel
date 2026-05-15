@@ -26,16 +26,12 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | Python, Java, R, Shell Script |
+| **Data & AI** | Power BI, Pandas, NumPy, Agentic Dev, LLMs, RAG |
+| **Systems** | Linux, Docker, Git, OS Architecture |
+| **Web Dev** | FastAPI, React, JavaScript |
 
 ---
 
@@ -50,32 +46,34 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 
 ---
 
-### 🌐 Socials:
+### 🌐 Connect with Me:
 
 <p align="left">
   <a href="mailto:navis.donel_bai28@mepcoeng.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/navis-joshva-donel-j-892bb1294">
+  <a href="https://www.linkedin.com/in/navis-joshva-donel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://yours-nj.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
 ---
 
-### ✍️ Random Dev Quote
-
-> "Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice."
->
-> — **Martin Fowler**
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navisjoshvadonel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navisjoshvadonel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=navisjoshvadonel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navisjoshvadonel&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navisjoshvadonel&theme=dark&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
