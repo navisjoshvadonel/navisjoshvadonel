@@ -1,10 +1,6 @@
 # <p align="center">Navis Joshva Donel J</p>
 
 <p align="center">
-  <img src="profile-banner.png" alt="Navis Joshva Donel J - Professional Banner" width="700">
-</p>
-
-<p align="center">
   <a href="https://github.com/navisjoshvadonel">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=github" alt="Status">
   </a>
