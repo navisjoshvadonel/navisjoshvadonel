@@ -2,21 +2,21 @@
 
 <h2 align="left"><font color="#8A2BE2">Navis</font></h2>
 
-**Artificial Intelligence Student • AI Explorer • Agentic Dev • Low-Level Architecture • Full-stack from prototype to production**
+**Agentic Developer • Data Analyst • Power BI • Data Engineer**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
 
 ### 💫 About Me:
 
-I am an **Artificial Intelligence Student** and **AI Explorer** passionate about building intelligence layers and secure, high-performance operating systems. My work bridges the gap between **Agentic Development**, **Deep Data Analytics**, and **Low-Level System Architecture**.
+I am an **Artificial Intelligence Student** and **AI Explorer** passionate about building intelligence layers and secure, high-performance operating systems. My work focuses on **Agentic Development**, **Deep Data Analytics**, and **Data Engineering**.
 
 - 🤖 Currently building **Agent-Snow**, a local-first intelligence layer.
 - ❄️ Architecting **Snow OS**, an AI-native operating system focused on Zero-Trust security.
@@ -28,10 +28,10 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, Java, R, Shell Script |
-| **Data & AI** | Power BI, Pandas, NumPy, Agentic Dev, LLMs, RAG |
-| **Systems** | Linux, Docker, Git, OS Architecture |
-| **Web Dev** | FastAPI, React, JavaScript |
+| **Data Engineering** | Python, Java, R, Shell Script, Data Pipelines |
+| **Data Analysis** | Power BI, Pandas, NumPy, SQL, Visualization |
+| **Agentic Dev** | AI Agents, Local-first AI, Autonomous Workflows |
+| **Systems & Ops** | Linux, Docker, Git, OS Architecture |
 
 ---
 
@@ -52,7 +52,7 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
   <a href="mailto:navis.donel_bai28@mepcoeng.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/navis-joshva-donel">
+  <a href="https://www.linkedin.com/in/navis-joshva-donel-j-892bb1294/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://yours-nj.netlify.app/">
