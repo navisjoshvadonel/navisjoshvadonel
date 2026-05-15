@@ -73,8 +73,9 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navisjoshvadonel&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=navisjoshvadonel&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
+
 
 ---
 
