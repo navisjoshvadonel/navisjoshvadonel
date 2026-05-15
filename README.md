@@ -1,97 +1,93 @@
-# Navis Joshva Donel J
+# Hi, I'm Navis Joshva Donel J
 
-<div align="center">
+<h2 align="left"><font color="#8A2BE2">Navis</font></h2>
 
-### Data Engineer & AI-Native Systems Developer
+**Artificial Intelligence Student • AI Explorer • Agentic Dev • Low-Level Architecture • Full-stack from prototype to production**
 
-Building intelligent solutions at the intersection of agentic systems, data engineering, and secure operating systems.
-
-[![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge&logo=github)](https://github.com/navisjoshvadonel)
-[![Email](https://img.shields.io/badge/Email-navis.donel_bai28@mepcoeng.ac.in-blue?style=for-the-badge&logo=gmail)](mailto:navis.donel_bai28@mepcoeng.ac.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Navis%20Joshva%20Donel%20J-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/navisjoshvadonel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Work-orange?style=for-the-badge&logo=github)](https://github.com/navisjoshvadonel/Portfolio)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I am a **Data Engineer & AI-Native Systems Developer** passionate about architecting intelligent solutions and secure, high-performance systems. My expertise bridges:
-
-- **Agentic Development**: Building autonomous AI systems with local-first architectures
-- **Data Engineering**: Transforming complex datasets into actionable intelligence
-- **Systems Architecture**: Designing secure, AI-native operating systems
-
-**Current Focus:**
-- 🤖 **Agent-Snow** — A local-first intelligence layer for high-performance agentic workflows
-- ❄️ **Snow OS** — An AI-native operating system with Zero-Trust security architecture
-- 📊 **Data Intelligence** — Advanced analytics and visualization using Power BI and Python
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+### 💫 About Me:
 
-| **Languages** | **Data & AI** | **Systems & DevOps** |
-|:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![Shell](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Agentic Dev](https://img.shields.io/badge/Agentic%20Development-DeepMind-blue?style=for-the-badge) | ![Kernel Development](https://img.shields.io/badge/Kernel%20Development-Systems-gray?style=for-the-badge) |
+I am an **Artificial Intelligence Student** and **AI Explorer** passionate about building intelligence layers and secure, high-performance operating systems. My work bridges the gap between **Agentic Development**, **Deep Data Analytics**, and **Low-Level System Architecture**.
 
----
-
-## 🌟 Featured Projects
-
-### 🎯 [Portfolio](https://github.com/navisjoshvadonel/Portfolio)
-**My primary portfolio repository** showcasing a comprehensive collection of professional projects, technical implementations, and career milestones.
-
-### 🧠 [Agent-Snow](https://github.com/navisjoshvadonel/Agent-Snow)
-**Local-first intelligence layer** designed for high-performance agentic workflows. Emphasizes privacy-preserving AI interactions, seamless tool integration, and autonomous reasoning.
-
-### ❄️ [Snow OS](https://github.com/navisjoshvadonel/DeploySnowos)
-**AI-Native Zero-Trust Operating System** architected with security-by-design principles and custom kernel-level optimizations for AI workloads and advanced computing scenarios.
-
-### 📊 [Data Exploration & Visuals](https://github.com/navisjoshvadonel/DATA-EXPLORATION-AND-VISUALS)
-**Advanced analytics portfolio** featuring complex dashboard designs, statistical deep-dives, and data storytelling using Power BI, R, and Python.
+- 🤖 Currently building **Agent-Snow**, a local-first intelligence layer.
+- ❄️ Architecting **Snow OS**, an AI-native operating system focused on Zero-Trust security.
+- 📊 Specialized in transforming complex datasets into actionable insights using **Power BI** and **Python**.
 
 ---
 
-## 📈 GitHub Analytics
+### 🛠️ Tech Stack & Skills
 
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=navisjoshvadonel&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)](https://github.com/navisjoshvadonel)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navisjoshvadonel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/navisjoshvadonel)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navisjoshvadonel&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/navisjoshvadonel)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=navisjoshvadonel&theme=tokyonight&hide_border=true)](https://github.com/navisjoshvadonel)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navisjoshvadonel&theme=tokyo-night&hide_border=true&area=true)](https://github.com/navisjoshvadonel)
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ---
 
-## 📞 Get In Touch
+### 🚀 Featured Projects
 
-I'm actively seeking opportunities to collaborate on innovative projects in **data engineering**, **AI systems**, and **secure infrastructure**.
-
-| Channel | Link |
-|---------|------|
-| **Email** | [navis.donel_bai28@mepcoeng.ac.in](mailto:navis.donel_bai28@mepcoeng.ac.in) |
-| **LinkedIn** | [Navis Joshva Donel J](https://linkedin.com/in/navisjoshvadonel) |
-| **Portfolio** | [My Work](https://github.com/navisjoshvadonel/Portfolio) |
-| **GitHub** | [@navisjoshvadonel](https://github.com/navisjoshvadonel) |
+- 🌐 **[Live Portfolio](https://yours-nj.netlify.app/)**: My primary professional portfolio website.
+- ✈️ **[AeroRoute](https://github.com/navisjoshvadonel/AeroRoute)**: Advanced airline routing and flight management system.
+- 🗺️ **[Smart Beneficiary Mapping](https://github.com/navisjoshvadonel/Smart-Beneficiary-Mapping)**: Intelligent data mapping for resource distribution.
+- 🎮 **[Tech Hangman](https://github.com/navisjoshvadonel/Tech-Hangman)**: A technical-themed educational game.
+- 🧠 **[Agent-Snow](https://github.com/navisjoshvadonel/Agent-Snow)**: A local-first intelligence layer.
+- ❄️ **[Snow OS](https://github.com/navisjoshvadonel/DeploySnowos)**: AI-Native Zero-Trust Operating System.
 
 ---
 
-<div align="center">
+### 🌐 Socials:
 
-*"Building the future, one intelligent system at a time."*
+<p align="left">
+  <a href="mailto:navis.donel_bai28@mepcoeng.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/navis-joshva-donel-j-892bb1294">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/navisjoshvadonel?style=social)](https://github.com/navisjoshvadonel)
-[![GitHub stars](https://img.shields.io/github/stars/navisjoshvadonel?style=social)](https://github.com/navisjoshvadonel)
+---
 
-</div>
+### ✍️ Random Dev Quote
+
+> "Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice."
+>
+> — **Martin Fowler**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navisjoshvadonel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navisjoshvadonel&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🙏 Bible Quote
+
+<p align="center">
+  <i>"Commit your work to the Lord, and your plans will be established."</i>
+  <br>
+  <b>— Proverbs 16:3</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=navisjoshvadonel&color=blueviolet" alt="Views">
+</p>
