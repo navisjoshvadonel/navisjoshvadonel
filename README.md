@@ -80,7 +80,7 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 
 ---
 
-### 🙏 Bible Quote
+###  Bible Quote
 
 <p align="center">
   <i>"Commit your work to the Lord, and your plans will be established."</i>
