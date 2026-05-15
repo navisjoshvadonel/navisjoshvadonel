@@ -1,8 +1,13 @@
 # Hi, I'm Navis Joshva Donel J
 
-<h2 align="left"><font color="#8A2BE2">Navis</font></h2>
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&width=600&lines=Welcome!+You+are+at+the+right+place;to+know+more+about+me...;Agentic+Developer;Data+Analyst;Power+BI;Data+Engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 **Agentic Developer • Data Analyst • Power BI • Data Engineer**
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
