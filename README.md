@@ -44,20 +44,56 @@
 
 ### 🌳 My Tech Stack Tree
 
-&nbsp;&nbsp;💻 **navisjoshvadonel (root)**<br>
-&nbsp;&nbsp;┣━━&nbsp;⚙️ **Languages**<br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22"><br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="22"><br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┗━━ <img src="https://img.shields.io/badge/R-276FBF?style=flat-square&logo=r&logoColor=white" height="22"><br>
-&nbsp;&nbsp;┣━━&nbsp;📊 **Data Engineering & Analytics**<br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" height="22"><br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22"><br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="22"><br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="22"><br>
-&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┗━━ ⚙️ `Data Pipelines` • `ETL` • `Data Wrangling` • `Statistical Analysis`<br>
-&nbsp;&nbsp;┗━━&nbsp;🤖 **Agentic AI & Systems**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣━━ 🧠 `AI Agents` • `Local-first AI` • `Autonomous Workflows` • `LLM Integration`<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗━━ 🛡️ `Git` • `OS Architecture` • `CI/CD` • `Zero-Trust Security`<br>
+```mermaid
+graph BT
+    %% Nodes
+    Root("💻 navisjoshvadonel (Root)")
+    
+    Languages("⚙️ Languages")
+    Data("📊 Data Engineering & Analytics")
+    Agentic("🤖 Agentic AI & Systems")
+    
+    Python("🐍 Python")
+    Java("☕ Java")
+    R("📊 R")
+    
+    PowerBI("📊 Power BI")
+    Pandas("🐼 Pandas")
+    NumPy("🔢 NumPy")
+    SQL("🛢️ SQL")
+    
+    Agents("🧠 AI Agents & Workflows")
+    OS("❄️ OS Architecture")
+    Security("🛡️ Zero-Trust Security")
+    
+    %% Connections
+    Root === Languages
+    Root === Data
+    Root === Agentic
+    
+    Languages --- Python
+    Languages --- Java
+    Languages --- R
+    
+    Data --- PowerBI
+    Data --- Pandas
+    Data --- NumPy
+    Data --- SQL
+    
+    Agentic --- Agents
+    Agentic --- OS
+    Agentic --- Security
+
+    %% Style Classes
+    classDef default fill:#16161e,stroke:#3b4252,stroke-width:1px,color:#d8dee9;
+    classDef root fill:#8A2BE2,stroke:#8A2BE2,stroke-width:2px,color:#ffffff,font-weight:bold;
+    classDef branch fill:#24283b,stroke:#7aa2f7,stroke-width:2px,color:#7aa2f7,font-weight:bold;
+    classDef leaf fill:#1a1b26,stroke:#565f89,stroke-width:1px,color:#a9b1d6;
+    
+    class Root root;
+    class Languages,Data,Agentic branch;
+    class Python,Java,R,PowerBI,Pandas,NumPy,SQL,Agents,OS,Security leaf;
+```
 
 ---
 
