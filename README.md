@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/ai_tech_banner.png" alt="Navis Joshva Donel J" width="850">
-</p>
+<h1 align="center">Hi, I'm Navis Joshva Donel J</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
