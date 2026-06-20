@@ -1,12 +1,16 @@
-# Hi, I'm Navis Joshva Donel J
+<p align="center">
+  <img src="assets/ai_tech_banner.png" alt="Navis Joshva Donel J" width="100%">
+</p>
 
-<p align="left">
+<h1 align="center">Navis Joshva Donel J</h1>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=8A2BE2&width=600&lines=Welcome!+You+are+at+the+right+place;to+know+more+about+me...;Agentic+Developer;AI+Explorer;Building+Intelligence+Layers" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome!+You+are+at+the+right+place;to+know+more+about+me...;Agentic+Developer;AI+Explorer;Building+Intelligence+Layers" alt="Typing SVG">
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
