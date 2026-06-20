@@ -2,8 +2,6 @@
   <img src="assets/ai_tech_banner.png" alt="Navis Joshva Donel J" width="850">
 </p>
 
-<h1 align="center">Navis Joshva Donel J</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Welcome!+You+are+at+the+right+place;to+know+more+about+me...;Agentic+Developer;AI+Explorer;Building+Intelligence+Layers" alt="Typing SVG">
