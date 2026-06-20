@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ai_tech_banner.png" alt="Navis Joshva Donel J" width="75%">
+  <img src="assets/ai_tech_banner.png" alt="Navis Joshva Donel J" width="100%">
 </p>
 
 <h1 align="center">Navis Joshva Donel J</h1>
