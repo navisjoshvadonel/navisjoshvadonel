@@ -9,10 +9,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
@@ -28,14 +28,15 @@
 
 ---
 
-### 💫 About Me:
+### 💫 About Me
 
-I am an **Artificial Intelligence Student** and **AI Explorer** passionate about building intelligence layers and secure, high-performance operating systems. My work focuses on **Agentic Development**, creating autonomous systems that bridge the gap between human intent and machine execution.
+> 🎓 **Artificial Intelligence Student & AI Explorer** passionate about building intelligence layers, data analytics systems, and secure operating architectures.
+> My work focuses on **Agentic Development**—creating autonomous systems that bridge the gap between human intent and machine execution.
 
-- 🤖 Currently building **Agent-Snow**, a local-first intelligence layer for autonomous decision-making.
-- ❄️ Architecting **Snow OS**, an AI-native operating system focused on Zero-Trust security and privacy-first design.
-- 📊 Specialized in transforming complex datasets into actionable insights using **Power BI**, **Python**, and advanced analytics.
-- 🔐 Passionate about secure systems design and distributed computing architectures.
+- 🤖 **Agent-Snow** — Currently building a local-first intelligence layer for autonomous decision-making.
+- ❄️ **Snow OS** — Architecting an AI-native operating system focused on Zero-Trust security and privacy-first design.
+- 📊 **Data Analytics** — Specialized in transforming complex datasets into actionable insights using **Power BI**, **Python**, and advanced analytics.
+- 🔐 **Systems Design** — Passionate about secure systems design and distributed computing architectures.
 
 ---
 
@@ -43,25 +44,25 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, Java, R, Shell Script, JavaScript |
-| **Data Engineering** | Python, Data Pipelines, ETL, Real-time Processing |
-| **Data Analysis & BI** | Power BI, Pandas, NumPy, SQL, Data Visualization, Statistical Analysis |
-| **Agentic AI** | AI Agents, Local-first AI, LangChain, Autonomous Workflows, LLMs |
-| **Backend & APIs** | FastAPI, REST APIs, Microservices, WebSockets |
-| **Systems & DevOps** | Linux, Docker, Git, OS Architecture, CI/CD, Zero-Trust Security |
+| 🔠 **Languages** | `Python` • `Java` • `R` • `Shell Script` • `JavaScript` |
+| ⚙️ **Data Engineering** | `Data Pipelines` • `ETL` • `Data Wrangling` |
+| 📊 **Data Analysis & BI** | `Power BI` • `Pandas` • `NumPy` • `SQL` • `Data Visualization` • `Statistical Analysis` |
+| 🤖 **Agentic AI** | `AI Agents` • `Local-first AI` • `Autonomous Workflows` • `LLM Integration` |
+| 🔌 **Backend & APIs** | `REST APIs` • `WebSockets` • `Database Systems` |
+| 🛠️ **DevOps & Systems** | `Git` • `OS Architecture` • `CI/CD` • `Zero-Trust Security` |
 
 ---
 
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 🌐 **[Live Portfolio](https://yours-nj.netlify.app/)** | Professional portfolio showcasing skills and projects | Netlify, Web Technologies |
-| ✈️ **[AeroRoute](https://github.com/navisjoshvadonel/AeroRoute)** | Advanced airline routing and intelligent flight management system with optimization algorithms | Python, Data Analysis |
-| 🗺️ **[Smart Beneficiary Mapping](https://github.com/navisjoshvadonel/Smart-Beneficiary-Mapping)** | Intelligent geospatial data mapping for optimized resource distribution | Python, GIS, Analytics |
-| 🎮 **[Tech Hangman](https://github.com/navisjoshvadonel/Tech-Hangman)** | Educational game combining entertainment with technical knowledge building | Python, Game Dev |
-| 🧠 **[Agent-Snow](https://github.com/navisjoshvadonel/Agent-Snow)** | Local-first intelligence layer enabling autonomous decision-making and task execution | Python, LangChain, AI Agents |
-| ❄️ **[Snow OS](https://github.com/navisjoshvadonel/DeploySnowos)** | AI-Native Zero-Trust Operating System with privacy-first architecture | OS Design, Security, Python |
+| :--- | :--- | :--- |
+| 🌐 **[Live Portfolio](https://yours-nj.netlify.app/)** | Professional portfolio showcasing skills and projects | `Netlify` • `HTML5` • `CSS3` • `JavaScript` |
+| ✈️ **[AeroRoute](https://github.com/navisjoshvadonel/AeroRoute)** | Advanced airline routing and intelligent flight management system with optimization algorithms | `Python` • `Data Analysis` • `Algorithms` |
+| 🗺️ **[Smart Beneficiary Mapping](https://github.com/navisjoshvadonel/Smart-Beneficiary-Mapping)** | Intelligent geospatial data mapping for optimized resource distribution | `Python` • `GIS` • `Data Analytics` |
+| 🎮 **[Tech Hangman](https://github.com/navisjoshvadonel/Tech-Hangman)** | Educational game combining entertainment with technical knowledge building | `Python` • `Game Development` |
+| 🧠 **[Agent-Snow](https://github.com/navisjoshvadonel/Agent-Snow)** | Local-first intelligence layer enabling autonomous decision-making and task execution | `Python` • `AI Agents` • `LLM Integration` |
+| ❄️ **[Snow OS](https://github.com/navisjoshvadonel/DeploySnowos)** | AI-Native Zero-Trust Operating System with privacy-first architecture | `OS Design` • `Security Systems` • `Python` |
 
 ---
 
