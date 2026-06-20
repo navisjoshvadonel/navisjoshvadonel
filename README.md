@@ -119,6 +119,14 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/navisjoshvadonel/navisjoshvadonel/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
 ### 💡 Open to Collaboration
 
 I'm always interested in collaborating on projects related to:
