@@ -47,24 +47,24 @@
 ```mermaid
 graph BT
     %% Nodes
-    Root("💻 navisjoshvadonel (Root)")
+    Root("💻 <b>navisjoshvadonel (Root)</b>")
     
-    Languages("⚙️ Languages")
-    Data("📊 Data Engineering & Analytics")
-    Agentic("🤖 Agentic AI & Systems")
+    Languages("⚙️ <b>Languages</b>")
+    Data("📊 <b>Data Engineering & Analytics</b>")
+    Agentic("🤖 <b>Agentic AI & Systems</b>")
     
-    Python("🐍 Python")
-    Java("☕ Java")
-    R("📊 R")
+    Python("🐍 <b>Python</b>")
+    Java("☕ <b>Java</b>")
+    R("📊 <b>R</b>")
     
-    PowerBI("📊 Power BI")
-    Pandas("🐼 Pandas")
-    NumPy("🔢 NumPy")
-    SQL("🛢️ SQL")
+    PowerBI("📊 <b>Power BI</b>")
+    Pandas("🐼 <b>Pandas</b>")
+    NumPy("🔢 <b>NumPy</b>")
+    SQL("🛢️ <b>SQL</b>")
     
-    Agents("🧠 AI Agents & Workflows")
-    OS("❄️ OS Architecture")
-    Security("🛡️ Zero-Trust Security")
+    Agents("🧠 <b>AI Agents & Workflows</b>")
+    OS("❄️ <b>OS Architecture</b>")
+    Security("🛡️ <b>Zero-Trust Security</b>")
     
     %% Connections
     Root === Languages
@@ -85,10 +85,10 @@ graph BT
     Agentic --- Security
 
     %% Style Classes
-    classDef default fill:#16161e,stroke:#3b4252,stroke-width:1px,color:#d8dee9;
-    classDef root fill:#8A2BE2,stroke:#8A2BE2,stroke-width:2px,color:#ffffff,font-weight:bold;
-    classDef branch fill:#24283b,stroke:#7aa2f7,stroke-width:2px,color:#7aa2f7,font-weight:bold;
-    classDef leaf fill:#1a1b26,stroke:#565f89,stroke-width:1px,color:#a9b1d6;
+    classDef default fill:#16161e,stroke:#3b4252,stroke-width:1px,color:#d8dee9,font-size:15px;
+    classDef root fill:#8A2BE2,stroke:#8A2BE2,stroke-width:2.5px,color:#ffffff,font-weight:bold,font-size:22px;
+    classDef branch fill:#24283b,stroke:#7aa2f7,stroke-width:2px,color:#7aa2f7,font-weight:bold,font-size:18px;
+    classDef leaf fill:#1a1b26,stroke:#565f89,stroke-width:1px,color:#a9b1d6,font-size:15px;
     
     class Root root;
     class Languages,Data,Agentic branch;
