@@ -40,16 +40,24 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🌳 My Tech Stack Tree
 
-| Category | Skills |
-| :--- | :--- |
-| 🔠 **Languages** | `Python` • `Java` • `R` • `Shell Script` • `JavaScript` |
-| ⚙️ **Data Engineering** | `Data Pipelines` • `ETL` • `Data Wrangling` |
-| 📊 **Data Analysis & BI** | `Power BI` • `Pandas` • `NumPy` • `SQL` • `Data Visualization` • `Statistical Analysis` |
-| 🤖 **Agentic AI** | `AI Agents` • `Local-first AI` • `Autonomous Workflows` • `LLM Integration` |
-| 🔌 **Backend & APIs** | `REST APIs` • `WebSockets` • `Database Systems` |
-| 🛠️ **DevOps & Systems** | `Git` • `OS Architecture` • `CI/CD` • `Zero-Trust Security` |
+&nbsp;&nbsp;💻 **navisjoshvadonel (root)**<br>
+&nbsp;&nbsp;┣━━&nbsp;⚙️ **Languages**<br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/R-276FBF?style=flat-square&logo=r&logoColor=white" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┗━━ <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" height="20"><br>
+&nbsp;&nbsp;┣━━&nbsp;📊 **Data Engineering & Analytics**<br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┣━━ <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="20"><br>
+&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;┗━━ ⚙️ `Data Pipelines` • `ETL` • `Data Wrangling` • `Statistical Analysis`<br>
+&nbsp;&nbsp;┗━━&nbsp;🤖 **Agentic AI & Systems**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣━━ 🧠 `AI Agents` • `Local-first AI` • `Autonomous Workflows` • `LLM Integration`<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗━━ 🛡️ `Git` • `OS Architecture` • `CI/CD` • `Zero-Trust Security`<br>
 
 ---
 
