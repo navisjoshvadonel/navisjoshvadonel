@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&width=600&lines=Welcome!+You+are+at+the+right+place;to+know+more+about+me...;Agentic+Developer;Data+Analyst;Power+BI;Data+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&width=600&lines=Welcome!+You+are+at+the+right+place;to+know+more+about+me...;Agentic+Developer;AI+Explorer;Building+Intelligence+Layers" alt="Typing SVG">
   </a>
 </p>
 
@@ -11,17 +11,31 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
+
+---
+
+## 📋 Table of Contents
+- [About Me](#-about-me)
+- [Tech Stack & Skills](#-tech-stack--skills)
+- [Featured Projects](#-featured-projects)
+- [Currently Learning](#-currently-learning)
+- [Goals & Vision](#-goals--vision)
+- [GitHub Stats](#-github-activity--stats)
+- [Connect with Me](#-connect-with-me)
 
 ---
 
 ### 💫 About Me:
 
-I am an **Artificial Intelligence Student** and **AI Explorer** passionate about building intelligence layers and secure, high-performance operating systems. My work focuses on **Agentic Development**, **Deep Data Analytics**, and **Data Engineering**.
+I am an **Artificial Intelligence Student** and **AI Explorer** passionate about building intelligence layers and secure, high-performance operating systems. My work focuses on **Agentic Development**, creating autonomous systems that bridge the gap between human intent and machine execution.
 
-- 🤖 Currently building **Agent-Snow**, a local-first intelligence layer.
-- ❄️ Architecting **Snow OS**, an AI-native operating system focused on Zero-Trust security.
-- 📊 Specialized in transforming complex datasets into actionable insights using **Power BI** and **Python**.
+- 🤖 Currently building **Agent-Snow**, a local-first intelligence layer for autonomous decision-making.
+- ❄️ Architecting **Snow OS**, an AI-native operating system focused on Zero-Trust security and privacy-first design.
+- 📊 Specialized in transforming complex datasets into actionable insights using **Power BI**, **Python**, and advanced analytics.
+- 🔐 Passionate about secure systems design and distributed computing architectures.
 
 ---
 
@@ -29,21 +43,44 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
 
 | Category | Skills |
 | :--- | :--- |
-| **Data Engineering** | Python, Java, R, Shell Script, Data Pipelines |
-| **Data Analysis** | Power BI, Pandas, NumPy, SQL, Visualization |
-| **Agentic Dev** | AI Agents, Local-first AI, Autonomous Workflows |
-| **Systems & Ops** | Linux, Docker, Git, OS Architecture |
+| **Languages** | Python, Java, R, Shell Script, JavaScript |
+| **Data Engineering** | Python, Data Pipelines, ETL, Real-time Processing |
+| **Data Analysis & BI** | Power BI, Pandas, NumPy, SQL, Data Visualization, Statistical Analysis |
+| **Agentic AI** | AI Agents, Local-first AI, LangChain, Autonomous Workflows, LLMs |
+| **Backend & APIs** | FastAPI, REST APIs, Microservices, WebSockets |
+| **Systems & DevOps** | Linux, Docker, Git, OS Architecture, CI/CD, Zero-Trust Security |
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🌐 **[Live Portfolio](https://yours-nj.netlify.app/)**: My primary professional portfolio website.
-- ✈️ **[AeroRoute](https://github.com/navisjoshvadonel/AeroRoute)**: Advanced airline routing and flight management system.
-- 🗺️ **[Smart Beneficiary Mapping](https://github.com/navisjoshvadonel/Smart-Beneficiary-Mapping)**: Intelligent data mapping for resource distribution.
-- 🎮 **[Tech Hangman](https://github.com/navisjoshvadonel/Tech-Hangman)**: A technical-themed educational game.
-- 🧠 **[Agent-Snow](https://github.com/navisjoshvadonel/Agent-Snow)**: A local-first intelligence layer.
-- ❄️ **[Snow OS](https://github.com/navisjoshvadonel/DeploySnowos)**: AI-Native Zero-Trust Operating System.
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🌐 **[Live Portfolio](https://yours-nj.netlify.app/)** | Professional portfolio showcasing skills and projects | Netlify, Web Technologies |
+| ✈️ **[AeroRoute](https://github.com/navisjoshvadonel/AeroRoute)** | Advanced airline routing and intelligent flight management system with optimization algorithms | Python, Data Analysis |
+| 🗺️ **[Smart Beneficiary Mapping](https://github.com/navisjoshvadonel/Smart-Beneficiary-Mapping)** | Intelligent geospatial data mapping for optimized resource distribution | Python, GIS, Analytics |
+| 🎮 **[Tech Hangman](https://github.com/navisjoshvadonel/Tech-Hangman)** | Educational game combining entertainment with technical knowledge building | Python, Game Dev |
+| 🧠 **[Agent-Snow](https://github.com/navisjoshvadonel/Agent-Snow)** | Local-first intelligence layer enabling autonomous decision-making and task execution | Python, LangChain, AI Agents |
+| ❄️ **[Snow OS](https://github.com/navisjoshvadonel/DeploySnowos)** | AI-Native Zero-Trust Operating System with privacy-first architecture | OS Design, Security, Python |
+
+---
+
+### 📚 Currently Learning
+
+- 🔬 Advanced LLM optimization and fine-tuning techniques
+- 🛡️ Zero-Trust security architecture and implementation
+- 🚀 Distributed systems and edge computing
+- 🤖 Reinforcement learning for autonomous agents
+
+---
+
+### 🎯 Goals & Vision
+
+- Build scalable agentic systems that enhance human productivity
+- Develop privacy-centric AI solutions for real-world problems
+- Contribute to open-source projects in AI and systems engineering
+- Create educational content on agentic development and AI architecture
+- Foster a community of developers interested in local-first AI solutions
 
 ---
 
@@ -58,6 +95,9 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
   </a>
   <a href="https://yours-nj.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/navisjoshvadonel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -77,10 +117,21 @@ I am an **Artificial Intelligence Student** and **AI Explorer** passionate about
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=navisjoshvadonel&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
+---
+
+### 💡 Open to Collaboration
+
+I'm always interested in collaborating on projects related to:
+- 🤖 Agentic AI development
+- 🔐 Security and privacy-focused systems
+- 📊 Data engineering and analytics
+- 🚀 Open-source contributions
+
+Feel free to reach out if you'd like to work together!
 
 ---
 
-###  Bible Quote
+### 📖 Bible Quote
 
 <p align="center">
   <i>"Commit your work to the Lord, and your plans will be established."</i>
